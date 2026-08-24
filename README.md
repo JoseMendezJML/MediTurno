@@ -2,6 +2,11 @@
 
 Proyecto académico para la actividad **“Ejercicio Final entre mobile y Smart TV”**.
 
+## Colaboradores
+- José Juan
+- Miriam
+- Valeria
+
 ## Módulos
 
 - `app-mobile`: aplicación Android para registrar y llamar turnos.
