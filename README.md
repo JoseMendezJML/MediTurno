@@ -43,7 +43,6 @@ El proyecto compila sin `google-services.json`. Para sincronizar Mobile ↔ TV s
 
 Archivo incluido: `firebase_rules_demo.json`.
 
-No uses reglas abiertas en un sistema real con datos clínicos.
 
 ## Flujo de prueba
 
@@ -71,12 +70,3 @@ git add .
 git commit -m "chore: crear proyecto base MediTurno"
 ```
 
-Ejemplos de commits diarios:
-
-```bash
-git commit -m "feat: implementar registro de turnos en app mobile"
-git commit -m "feat: integrar sincronizacion de turno con Smart TV"
-git commit -m "feat: agregar historial y configuracion de Firebase"
-git commit -m "docs: agregar evidencias y configuracion del proyecto"
-git commit -m "release: finalizar proyecto MediTurno"
-```
