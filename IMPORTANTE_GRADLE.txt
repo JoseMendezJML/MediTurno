@@ -1,0 +1,13 @@
+El código fuente del proyecto está completo.
+
+Si Android Studio indica que falta "gradle-wrapper.jar":
+1. Abre el proyecto normalmente.
+2. Android Studio puede ofrecer "Sync/Repair Gradle".
+3. Si no lo hace, abre una terminal en la carpeta del proyecto y ejecuta:
+   gradle wrapper --gradle-version 8.9
+   (solo si tienes Gradle instalado)
+4. También puedes crear un proyecto vacío en Android Studio y copiar su carpeta
+   gradle/wrapper junto con gradlew y gradlew.bat.
+
+El archivo faltante es solo el ejecutable del wrapper de Gradle, no forma parte
+del código de MediTurno.
