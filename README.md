@@ -1,6 +1,6 @@
 # MediTurno
-
-Proyecto académico para la actividad **“Ejercicio Final entre mobile y Smart TV”**.
+Este proyecto es
+ académico para la actividad **“Ejercicio Final entre mobile y Smart TV”**.
 
 ## Módulos
 
@@ -49,7 +49,7 @@ Archivo incluido: `firebase_rules_demo.json`.
 1. En Mobile abre `Nuevo`.
 2. Registra un paciente.
 3. Regresa a `Inicio`.
-4. Pulsa `Llamar siguiente`.
+4. Pulsa `Llamar al siguiente`.
 5. La aplicación TV actualizará el turno automáticamente.
 
 ## Estructura de datos
@@ -67,6 +67,6 @@ mediturno/
 ```bash
 git init
 git add .
-git commit -m "chore: crear proyecto base MediTurno"
+git commit -m "chore: Crear proyecto base MediTurno"
 ```
 
