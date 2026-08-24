@@ -2,7 +2,9 @@
     <style name="Theme.MediTurno" parent="android:style/Theme.Material.Light.NoActionBar">
         <item name="android:fontFamily">sans</item>
         <item name="android:windowLightStatusBar">false</item>
-        <item name="android:statusBarColor">#312E81</item>
+
+        <item name="android:statusBarColor">#D398E8</item>
+
         <item name="android:navigationBarColor">#FFFFFF</item>
     </style>
 </resources>
