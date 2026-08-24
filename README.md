@@ -35,7 +35,7 @@ El proyecto compila sin `google-services.json`. Para sincronizar Mobile ↔ TV s
 2. Agrega **Realtime Database**.
 3. Para la demostración académica, inicia la base en modo de prueba.
 4. Copia la URL, por ejemplo:
-   `https://tu-proyecto-default-rtdb.firebaseio.com`
+   `https://mediturno-76b96-default-rtdb.firebaseio.com/`
 5. Abre **Configuración** en MediTurno Mobile y guarda esa URL.
 6. Abre **Configurar conexión** en MediTurno TV y guarda la misma URL.
 
@@ -43,7 +43,6 @@ El proyecto compila sin `google-services.json`. Para sincronizar Mobile ↔ TV s
 
 Archivo incluido: `firebase_rules_demo.json`.
 
-No uses reglas abiertas en un sistema real con datos clínicos.
 
 ## Flujo de prueba
 
@@ -71,12 +70,3 @@ git add .
 git commit -m "chore: crear proyecto base MediTurno"
 ```
 
-Ejemplos de commits diarios:
-
-```bash
-git commit -m "feat: implementar registro de turnos en app mobile"
-git commit -m "feat: integrar sincronizacion de turno con Smart TV"
-git commit -m "feat: agregar historial y configuracion de Firebase"
-git commit -m "docs: agregar evidencias y configuracion del proyecto"
-git commit -m "release: finalizar proyecto MediTurno"
-```
