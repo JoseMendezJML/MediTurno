@@ -35,7 +35,7 @@ El proyecto compila sin `google-services.json`. Para sincronizar Mobile ↔ TV s
 2. Agrega **Realtime Database**.
 3. Para la demostración académica, inicia la base en modo de prueba.
 4. Copia la URL, por ejemplo:
-   `https://tu-proyecto-default-rtdb.firebaseio.com`
+   `https://mediturno-76b96-default-rtdb.firebaseio.com/`
 5. Abre **Configuración** en MediTurno Mobile y guarda esa URL.
 6. Abre **Configurar conexión** en MediTurno TV y guarda la misma URL.
 
